@@ -1,6 +1,6 @@
 # Liri
   A command line application with four functions:
-  * concert-this — Gets information about an artists upcoming concerts.
+  * concert-this — Gets information about an artist's upcoming concerts.
   * spotify-this — Gets information about a song from Spotify.
   * movie-this — Gets information about a movie.
   * do-what-it-says — Runs one of the above functions with input from a .txt file
